@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Peter Gemmell and I have a student at St. Mother Teresa HS, Ottawa, Ontario
+My name is Peter Gemmell and I am a student at St. Mother Teresa HS, Ottawa, Ontario
 
 ### Programming Languages
 <p>
@@ -11,3 +11,12 @@ My name is Peter Gemmell and I have a student at St. Mother Teresa HS, Ottawa, O
   <a href="https://github.com/Peter-Gemmell?tab=repositories&q=&type=&language=javascript&sort="><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Gemmell&layout=compact)
+  
+ ### Tools
+  
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+  <br/>
