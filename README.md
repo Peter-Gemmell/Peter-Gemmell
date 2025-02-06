@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Peter Gemmell and I am a student at St. Mother Teresa HS, Ottawa, Ontario
+My name is Peter Gemmell 
+Ontario Tech University
+2nd year Nuclear Engineering Student
 
 ### Programming Languages
 <p>
